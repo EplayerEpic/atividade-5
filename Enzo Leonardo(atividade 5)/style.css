@@ -1,0 +1,61 @@
+#baby {
+    width: 40%;
+    margin-top: 35px;
+    border: 3px dashed red;
+    transition-property: all;
+    transition-duration: 2s;
+
+}
+
+#main {
+   
+    background-color: black;
+   
+}
+
+#span {
+    color: red;
+    text-align: center;
+    
+}
+
+#header {
+    text-align: center;
+    color: red;
+    background-color: black;
+    
+}
+
+#lefth {
+    width: 30%;
+    float: right;
+   margin-bottom: 1000px;
+}
+
+#lefth:hover{
+
+    width: 30%;
+    border: 3px dashed red;
+    transition-property: all;
+    transition-duration: 1s;
+
+
+}
+
+#div {
+    background-color: black;
+
+}
+
+a {
+    color: crimson;
+    text-decoration: none;
+    
+
+}
+
+ul {
+    list-style: none;
+  
+
+}
