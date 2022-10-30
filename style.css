@@ -1,0 +1,72 @@
+#baby {
+    width: 40%;
+    margin-top: 35px;
+    border: 3px dashed red;
+   animation: puppet 1s infinite;
+
+}
+
+#main {
+   
+    background-color: black;
+   
+}
+
+#span {
+    color: red;
+    text-align: center;
+    
+}
+
+#header {
+    text-align: center;
+    color: red;
+    background-color: black;
+    
+}
+
+#lefth {
+    width: 30%;
+    float: right;
+    border: 3px dashed red;
+}
+
+#div {
+    background-color: black;
+
+}
+
+a {
+    color: crimson;
+    text-decoration: none;
+    
+
+}
+
+ul {
+    list-style: none;
+  
+
+}
+
+p{
+
+    color: aliceblue;
+}
+
+footer{
+
+    color: aliceblue;
+}
+
+#fnaf2{
+      float:right ;
+}
+
+#fnaf2:hover{
+
+color: rgb(209, 26, 26);
+transition-property: all;
+transition-duration: 2s;
+
+}
